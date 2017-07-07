@@ -11,7 +11,7 @@ Uninstallation instructions:
 
 - Run C:\Scripts\dcminfo\Uninstall.bat as Administrator
 
+
 Screenshot: <br />
-<br />
-<!-- ![Alt text](dcminfo.png?raw=true "Screenshot") -->
-![ScreenShot](dcminfo.png)
+![Alt text](dcminfo.png?raw=true "Screenshot")
+<!-- ![ScreenShot](dcminfo.png?raw=true) -->
