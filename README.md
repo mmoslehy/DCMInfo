@@ -11,5 +11,7 @@ Uninstallation instructions:
 
 - Run C:\Scripts\dcminfo\Uninstall.bat as Administrator
 
-Screenshot:
-![Alt text](https://moselhy.org/physics/dcminfo.png "Screenshot")
+Screenshot: <br />
+<br />
+![Alt text](dcminfo.png?raw=true "Screenshot")
+<!-- ![ScreenShot](dcminfo.png?raw=true) -->
