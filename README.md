@@ -13,5 +13,7 @@ Uninstallation instructions:
 
 
 Screenshot: <br />
+
+
 ![Alt text](dcminfo.png?raw=true "Screenshot")
 <!-- ![ScreenShot](dcminfo.png?raw=true) -->
