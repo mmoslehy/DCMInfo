@@ -14,8 +14,8 @@ Uninstallation instructions:
 
 Building instructions:
 - Run the following commands:
-- [Install python] (https://www.python.org/)
-- [Install Git bash] (https://git-scm.com/downloads)
+- [Install python](https://www.python.org/)
+- [Install Git bash](https://git-scm.com/downloads)
 - Open Git Bash and run the following commands:
 ```
 	1) git clone https://github.com/mmoslehy/DCMInfo
