@@ -1,4 +1,3 @@
-![Logo](dcminfo.png?raw=true)
 # Small script written in python and made into an executable with pyinstaller
 #### It allows you to write click any .dcm file and view its metadata using your default text editor.
 
