@@ -1,18 +1,18 @@
-Small script written in python and made into an executable with py2exe.
+# Small script written in python and made into an executable with py2exe.
 It allows you to write click any .dcm file and view its metadata using your default text editor.
 
-Installation instructions:
+## Installation instructions:
 
 - Download the package
 - Run Install.bat as Administrator
 
 
-Uninstallation instructions:
+## Uninstallation instructions:
 
 - Run C:\Scripts\dcminfo\Uninstall.bat as Administrator
 
 
-Building instructions:
+## Building instructions:
 - Run the following commands:
 - [Install python](https://www.python.org/)
 - [Install Git bash](https://git-scm.com/downloads)
@@ -25,7 +25,7 @@ Building instructions:
 ```
 
 
-Screenshot: <br />
+## Screenshot:
 
 
 ![Alt text](dcminfo.png?raw=true "Screenshot")
