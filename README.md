@@ -21,7 +21,7 @@
 	1) git clone https://github.com/mmoslehy/DCMInfo
 	2) pip install pyinstaller
 	3) cd DCMInfo/src
-	4) pyinstaller dcminfo.py -i icon.ico
+	4) pyinstaller dcminfo.py -i icon.ico --onefile
 ```
 
 
