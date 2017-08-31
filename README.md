@@ -17,10 +17,12 @@
 2. [Install Git bash](https://git-scm.com/downloads)
 3. Open Git Bash and run the following commands:
 ```
-	1) git clone https://github.com/moselhy/DCMInfo
-	2) pip install pyinstaller pydicom
-	3) cd DCMInfo/src
-	4) pyinstaller dcminfo.py -i icon.ico --onefile
+	1. git clone https://github.com/moselhy/DCMInfo
+	2. pip install pyinstaller pydicom
+	3. cd DCMInfo/src
+	4. pyinstaller dcminfo.py -i icon.ico --onefile
+	5. cp -f dist/dcminfo.exe ../bin
+	6. ../Install.bat
 ```
 
 
