@@ -13,9 +13,9 @@
 
 
 ## Building instructions:
-1. [Install python](https://www.python.org/)
+1. [Install Python 2.7](https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi) (make sure you check "add Python to PATH")
 2. [Install Git bash](https://git-scm.com/downloads)
-3. Open Git Bash and run the following commands:
+3. Open Git Bash as Administrator and run the following commands:
 ```
 	1. git clone https://github.com/moselhy/DCMInfo
 	2. pip install pyinstaller pydicom
