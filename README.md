@@ -13,13 +13,12 @@
 
 
 ## Building instructions:
-- Run the following commands:
-- [Install python](https://www.python.org/)
-- [Install Git bash](https://git-scm.com/downloads)
-- Open Git Bash and run the following commands:
+1. [Install python](https://www.python.org/)
+2. [Install Git bash](https://git-scm.com/downloads)
+3. Open Git Bash and run the following commands:
 ```
-	1) git clone https://github.com/mmoslehy/DCMInfo
-	2) pip install pyinstaller
+	1) git clone https://github.com/moselhy/DCMInfo
+	2) pip install pyinstaller pydicom
 	3) cd DCMInfo/src
 	4) pyinstaller dcminfo.py -i icon.ico --onefile
 ```
