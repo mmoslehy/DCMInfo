@@ -10,4 +10,9 @@ filename = os.path.splitext(os.path.basename(filepath))[0]
 f = NamedTemporaryFile(prefix=filename+'.tmp', suffix='.txt', delete=False)
 f.write(str(ds))
 f.close()
-subprocess.Popen('start ' + f.name, shell=True)
+
+if sys.platform.startswith('linux'):
+	subprocess.Popen('xdg-open ' + f.name, shell=True)
+
+elif sys.platform == 'win32':
+	subprocess.Popen('start ' + f.name, shell=True)
